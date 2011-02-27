@@ -1,0 +1,4 @@
+name: NaviaCore
+main: com.landsofnavia.mcandze.naviacore.NaviaCore
+version: 0.0.1
+commands:
